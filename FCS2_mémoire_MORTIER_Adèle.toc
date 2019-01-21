@@ -1,0 +1,50 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {french}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Qu'est-ce qu'un concept?}{2}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}L'approche d\IeC {\'e}finitoire}{2}{subsection.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Continuit\IeC {\'e} des attributs: pour une approche statistique}{3}{subsection.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1}Rigidit\IeC {\'e} du mod\IeC {\`e}le d\IeC {\'e}finitoire}{3}{subsubsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2}Confirmation exp\IeC {\'e}rimentale}{4}{subsubsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3}Flexibilit\IeC {\'e} des CNS: un ``air de famille''}{4}{subsection.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4}Interd\IeC {\'e}pendance des concepts entre eux: pour une ``th\IeC {\'e}orie des th\IeC {\'e}ories''}{6}{subsection.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Qu'est-ce qu'une analogie?}{7}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}D\IeC {\'e}finition formelle}{7}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Analogies et concepts}{8}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}D'un point de vue cognitif}{8}{subsection.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Quels liens avec l'apprentissage statistique?}{9}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Embedding}{9}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1}Embedding de mots}{10}{subsubsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.2}Embedding d'images}{13}{subsubsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.3}Embedding multimodal}{14}{subsubsection.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Topologie des embeddings}{15}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1}Dimensionnalit\IeC {\'e}}{15}{subsubsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2}Similarit\IeC {\'e}}{15}{subsubsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3}Cat\IeC {\'e}gories}{16}{subsubsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.4}Relations}{17}{subsubsection.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}{18}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{R\IeC {\'e}f\IeC {\'e}rences}{19}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Annexes}{21}{section*.19}
